@@ -1,9 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Ayesha Javed</h1>
-<h3 align="center">An Enthusiastic Software Engineering Student, Learning Python at advanced level, including web development!</h3>
+<h3 align="center">An Enthusiastic Software Engineering Student, Learning Python at an advanced level, including web development!</h3>
 
 - 🔭 I’m currently working on Python and web development
-- 🌱 I’m currently learning advanced level Python programming and aspiring in Machine Learning!
+- 🌱 I’m currently learning advanced-level Python programming and aspiring in Machine Learning!
 - 📝 I regularly write articles on [Medium](https://medium.com/@ayshajavd)
 - 📫 How to reach me: ayshajavd@gamil.com
 
