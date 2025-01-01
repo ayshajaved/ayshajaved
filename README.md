@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Ayesha Javed</h1>
-<h3 align="center">An Enthusiastic Software Engineering Student, Learning Python at an advanced level, including web development!</h3>
+<h3 align="center">An Enthusiastic Software Engineering Student, Learning Python at an advanced level, including web development and Later Machine Learning and Artificial Intelligence!</h3>
 
 - 🔭 I’m currently working on Python and web development
 - 🌱 I’m currently learning advanced-level Python programming and aspiring in Machine Learning!
