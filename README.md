@@ -79,6 +79,22 @@
 </div>
 
 ---
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayshajaved&" alt="ayshajaved" />
+</p>
+
+---
+
+🎯 **Contribution Highlights**
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ayshajaved&show_icons=true&locale=en" alt="ayshajaved" />
+</p>
+
+🌟 **Top Languages**
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayshajaved&show_icons=true&locale=en&layout=compact" alt="ayshajaved" />
+</p>
+
 
 🤝 **Connect with Me**
 <p align="center">
