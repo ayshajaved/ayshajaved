@@ -5,7 +5,7 @@
 
 🚀 **About Me**
 
-- 👩‍💻 **Software Engineering Student**: Focusing on Python programming, web development, and emerging into Machine Learning and AI.
+- 👩‍💻 **Software Engineering Student**: Focusing on Python programming, web development, and emerging into Machine Learning and AI
 - 🌱 **Current Learning Path**: Advanced Python programming, Web Development, and Machine Learning technologies.
 - 🔭 **Current Projects**: Developing SAAS products leveraging Artificial Intelligence.
 - 💬 **Passion**: Continuous learning and growth in the tech ecosystem.
@@ -112,6 +112,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=ayshajaved&show_icons=true&locale=en&theme=tokyonight" width="51%" align="left">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayshajaved&theme=tokyonight" width="45%">
+
 
 ## Languages Status
 
