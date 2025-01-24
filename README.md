@@ -85,8 +85,8 @@
 | Streak Type       | Count |
 |-------------------|-------|
 | **Total Contributions** | 435   |
-| **Longest Streak** | 21 days |
-| **Current Streak** | 7 days  |
+| **Longest Streak** | 9 days |
+| **Current Streak** | 1 days  |
 
 ---
 
