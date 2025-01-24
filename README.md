@@ -1,13 +1,13 @@
 # Hi 👋, I'm Ayesha Javed
-
-<h3 align="center">An Enthusiastic Software Engineering Student, Advancing in Python, Web Development, Machine Learning, and Artificial Intelligence!</h3>
+<h3 align="center">A Python Developer and AI Engineer, GDGoC co-lead ML/AI Advancing in Python, Web Development, Machine Learning, and Artificial Intelligence!</h3>
 
 ---
 
 🚀 **About Me**
+
 - 👩‍💻 **Software Engineering Student**: Focusing on Python programming, web development, and emerging into Machine Learning and AI.
 - 🌱 **Current Learning Path**: Advanced Python programming, Web Development, and Machine Learning technologies.
-- 🔭 **Current Projects**: Developing skills in Python and exploring web development frameworks.
+- 🔭 **Current Projects**: Developing SAAS products leveraging Artificial Intelligence.
 - 💬 **Passion**: Continuous learning and growth in the tech ecosystem.
 - 📝 **Content Creation**: Regularly writing articles on [Medium](https://medium.com/@ayshajavd)
 - 📧 **Contact**: Reach me at ayshajavd@gmail.com
@@ -17,7 +17,7 @@
 
 ## 🔧 Skills & Tools
 
-**💻 Programming Languages**
+### **💻 Programming Languages**
 <div align="center">
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="Python" width="60" height="60"/>
@@ -32,7 +32,7 @@
 
 ---
 
-**📚 Libraries & Frameworks**
+### **📚 Libraries & Frameworks**
 <div align="center">
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="60" height="60"/>
@@ -62,7 +62,7 @@
 
 ---
 
-**🔧 Tools**
+### **🔧 Tools**
 <div align="center">
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="60" height="60"/>
@@ -79,24 +79,18 @@
 </div>
 
 ---
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayshajaved&" alt="ayshajaved" />
-</p>
+
+## 💝 Contributions Table
+
+| Streak Type       | Count |
+|-------------------|-------|
+| **Total Contributions** | 435   |
+| **Longest Streak** | 21 days |
+| **Current Streak** | 7 days  |
 
 ---
 
-🎯 **Contribution Highlights**
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ayshajaved&show_icons=true&locale=en" alt="ayshajaved" />
-</p>
-
-🌟 **Top Languages**
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayshajaved&show_icons=true&locale=en&layout=compact" alt="ayshajaved" />
-</p>
-
-
-🤝 **Connect with Me**
+## 💑 Connect with Me
 <p align="center">
   <a href="https://www.leetcode.com/ayeshajaved" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" style="height: 3rem; width: 3rem;">
@@ -129,8 +123,5 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayshajaved&theme=react-dark" width="100%">
 
 ## 🏆 My Trophies
+
 ![My Trophies](https://github-profile-trophy.vercel.app/?username=ayshajaved)
-
-## Contributions
-
-![Contributions](file-G8ajokAoG2oUzK3neumNFM)
