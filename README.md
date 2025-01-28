@@ -1,5 +1,5 @@
 # Hi 👋, I'm Ayesha Javed
-<h3 align="center">A Python Developer and AI Engineer, GDGoC co-lead ML/AI Advancing in Python, Web Development, Machine Learning, and Artificial Intelligence!</h3>
+<h3 align="center">A Python and AI Developer, GDGoC co-lead ML/AI Advancing in Python, Web Development, Machine Learning, and Artificial Intelligence!</h3>
 
 ---
 
