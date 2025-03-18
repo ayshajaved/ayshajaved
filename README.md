@@ -80,16 +80,6 @@
 
 ---
 
-## 💝 Contributions Table
-
-| Streak Type       | Count |
-|-------------------|-------|
-| **Total Contributions** | 435   |
-| **Longest Streak** | 9 days |
-| **Current Streak** | 1 days  |
-
----
-
 ## 💑 Connect with Me
 <p align="center">
   <a href="https://www.leetcode.com/ayeshajaved" target="_blank">
