@@ -99,10 +99,7 @@
 ---
 
 ## GitHub Status
-
-<img src="https://github-readme-stats.vercel.app/api?username=ayshajaved&show_icons=true&locale=en&theme=tokyonight&count_private=true" width="51%" align="left">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayshajaved&theme=tokyonight&count_private=true" width="45%">
-
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=ayshajaved&theme=tokyonight" width="51%" >
 
 ## Languages Status
 
