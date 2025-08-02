@@ -85,6 +85,11 @@
 
 ---
 
+## 🌟 Projects
+
+- **[Solaiel Energy](https://solaiel-energy.vercel.app/)**: Solar-based solution submitted to Google Solution Challenge 2025.
+
+---
 ## 💑 Connect with Me
 <p align="center">
   <a href="https://www.leetcode.com/ayeshajaved" target="_blank">
