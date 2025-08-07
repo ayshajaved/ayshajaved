@@ -10,9 +10,9 @@
 
 🚀 **About Me**
 
-- 👩‍💻 **Software Engineering Student**: Focusing on Python programming, web development, and emerging into Machine Learning and AI
+- 👩‍💻 **Software Engineering Student**: Focusing on AI Agents, web development, and emerging into Machine Learning and AI
 - 🌱 **Current Learning Path**: Advanced Python programming, Web Development, and Machine Learning technologies.
-- 🔭 **Current Projects**: Developing AIaaS products leveraging Artificial Intelligence.
+- 🔭 **Current Projects**: Developed full stack product **Solaiel**(Google Solution challenge 2025)
 - 💬 **Passion**: Continuous learning and growth in the tech ecosystem.
 - 📝 **Content Creation**: Regularly writing articles on [Medium](https://medium.com/@ayshajavd)
 - 📧 **Contact**: Reach me at ayshajavd@gmail.com
