@@ -87,7 +87,8 @@
 
 ## 🌟 Projects
 
-- **[Solaiel Energy](https://solaiel-energy.vercel.app/)**: Solar-based solution submitted to Google Solution Challenge 2025.
+- <h2><a href="https://solaiel-energy.vercel.app/">Solaiel Energy</a>: Solar-based solution submitted to Google Solution Challenge 2025.</h2>
+  <br>
 
 ---
 ## 💑 Connect with Me
