@@ -87,11 +87,10 @@
 
 ## 🌟 Projects
 
-- <h2><a href="https://solaiel-energy.vercel.app/">Solaiel Energy</a>: Solar-based solution submitted to Google Solution Challenge 2025.</h2>
-  <br>
 - <h2><a href="https://ayeshajaved.pythonanywhere.com/">Regimi</a>: AI-powered interactive portfolio that answers queries about projects, skills, and experience using a RAG-based engine.</h2>
   <br>
-
+- <h2><a href="https://solaiel-energy.vercel.app/">Solaiel Energy</a>: Solar-based solution submitted to Google Solution Challenge 2025.</h2>
+  <br>
 
 ---
 ## 💑 Connect with Me
